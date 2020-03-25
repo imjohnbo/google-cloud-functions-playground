@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/imjohnbo/google-cloud-functions-playground/issues"
   },
-  "homepage": "https://github.com/imjohnbo/google-cloud-functions-playground#readme"
+  "homepage": "https://github.com/imjohnbo/google-cloud-functions-playground#readme",
+  "dependencies": {
+    "@octokit/auth-app": "^2.4.4",
+    "@octokit/rest": "^17.1.2"
+  }
 }
